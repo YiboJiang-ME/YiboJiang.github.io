@@ -10,14 +10,6 @@ redirect_from:
 
 Jiang Yibo (江一波) has been pursuing a doctoral degree at the School of Mechanical Engineering, Zhejiang University since 2019. He received his Bachelor of Engineering degree from the School of Mechanical Engineering at Dalian University of Technology from 2015 to 2019. His research interests include the tribodynamics of gear transmission systems, uncertainty dynamics, and methods for predicting and controlling mechanical interface performance, i.e., shot peening.
 
-Publications
-======
-[1] Jiang Yibo, Tong Shuiguang, Tong Zheming*, Li Sheng, Cheng Weihao. Tribodynamic analysis of spur gear drives with uncertain time-variant loads: An interval process approach. Mechanism and Machine Theory, 2024, 191: 105511.（中科院TOP，IF=5.2，Q1）
-[2] Jiang Yibo, Chen Zhou, Tong Shuiguang*, Li Sheng, Tong Zheming*. Gear tribodynamic modeling and analysis considering tooth profile modification. Tribology International, 2023, 178: 108023.（中科院TOP，IF=6.2，Q1）
-[3] Chen Zhou, Jiang Yibo, Li Sheng, Tong Zheming*, Tong Shuiguang, Tang Ning. Uncertainty propagation of correlated lubricant properties in gear tribodynamic system. Tribology International, 2023, 179: 107812.（中科院TOP，IF=6.2，Q1）
-[4] Chen Zhou, Jiang Yibo, Li Sheng, Tong Zheming*, Tong Shuiguang*, Tang Ning. Effect of lubricant viscosity on dynamics of high-precision gear considering lubricant-induced backlash reduction. Tribology International, 2022, 168: 107447.（中科院TOP，IF=6.2，Q1）
-
-
 Getting started
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
@@ -40,13 +32,6 @@ For site content, there is one markdown file for each type of content, which are
 I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
 ) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
 For more information
-------
+======
 More info about Yibo Jiang can be found in his personal webpage on [Researchgate](https://www.researchgate.net/profile/Yibo-Jiang-3). 
