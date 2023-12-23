@@ -12,6 +12,7 @@ Yibo Jiang (江一波), is a fifth-year PhD student at the School of Mechanical 
 
 Publications
 ======
+
 2024
 ------
 Jiang Y., Tong S., Tong Z., et al. Tribodynamic analysis of spur gear drives with uncertain time-variant loads: An interval process approach. Mechanism and Machine Theory, 2024, 191: 105511.
