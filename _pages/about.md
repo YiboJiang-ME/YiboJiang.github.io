@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Jiang Yibo (江一波) has been pursuing a doctoral degree at the School of Mechanical Engineering, Zhejiang University since 2019. He received his Bachelor of Engineering degree from the School of Mechanical Engineering at Dalian University of Technology in 2019. His research interests include the tribodynamics uncertainty dynamics and methods for predicting and controlling mechanical interface performance of gear transmission systems (GTS).
+Yibo Jiang (江一波), is a fifth-year PhD student at the School of Mechanical Engineering, Zhejiang University (2019-now). He received his Bachelor of Engineering degree from the School of Mechanical Engineering at Dalian University of Technology in 2019. His research interests include the tribodynamics uncertainty dynamics and methods for predicting and controlling mechanical interface performance of gear transmission systems (GTS).
 
 Publications
 ======
