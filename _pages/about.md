@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,13 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Jiang Yibo (江一波) has been pursuing a doctoral degree at the School of Mechanical Engineering, Zhejiang University since 2019. He received his Bachelor of Engineering degree from the School of Mechanical Engineering at Dalian University of Technology from 2015 to 2019. His research interests include the tribodynamics of gear transmission systems, uncertainty dynamics, and methods for predicting and controlling mechanical interface performance, i.e., shot peening.
 
-A data-driven personal website
+Publications
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+[1] Jiang Yibo, Tong Shuiguang, Tong Zheming*, Li Sheng, Cheng Weihao. Tribodynamic analysis of spur gear drives with uncertain time-variant loads: An interval process approach. Mechanism and Machine Theory, 2024, 191: 105511.（中科院TOP，IF=5.2，Q1）
+[2] Jiang Yibo, Chen Zhou, Tong Shuiguang*, Li Sheng, Tong Zheming*. Gear tribodynamic modeling and analysis considering tooth profile modification. Tribology International, 2023, 178: 108023.（中科院TOP，IF=6.2，Q1）
+[3] Chen Zhou, Jiang Yibo, Li Sheng, Tong Zheming*, Tong Shuiguang, Tang Ning. Uncertainty propagation of correlated lubricant properties in gear tribodynamic system. Tribology International, 2023, 179: 107812.（中科院TOP，IF=6.2，Q1）
+[4] Chen Zhou, Jiang Yibo, Li Sheng, Tong Zheming*, Tong Shuiguang*, Tang Ning. Effect of lubricant viscosity on dynamics of high-precision gear considering lubricant-induced backlash reduction. Tribology International, 2022, 168: 107447.（中科院TOP，IF=6.2，Q1）
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
 
 Getting started
 ======
@@ -45,6 +47,6 @@ Many people use a git client to create files on their local computer and then pu
 Example: editing a markdown file for a talk
 ![Editing a markdown file for a talk](/images/editing-talk.png)
 
-For more info
+For more information
 ------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about Yibo Jiang can be found in his personal webpage on [Researchgate](https://www.researchgate.net/profile/Yibo-Jiang-3). 
